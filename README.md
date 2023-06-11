@@ -5,6 +5,10 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+Install Flutter and VS code for windows without android studio
+
+run app 
+flutter run -d windows  
 
 A few resources to get you started if this is your first Flutter project:
 
